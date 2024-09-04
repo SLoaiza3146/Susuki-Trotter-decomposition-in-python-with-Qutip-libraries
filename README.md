@@ -19,6 +19,6 @@ This repository features a numerical implementation of the Suzuki-Trotter decomp
 - QuTiP library
 - Additional Python libraries as necessary (e.g., NumPy, SciPy)
 
-##Future Updates
+## Future Updates
 - **Methodology Enhancement**: Further explanations and improvements on the Suzuki-Trotter method and its implementation are planned to enhance understanding and usability.
 - **Adaptability**: Updates to make the scripts more adaptable to a variety of quantum systems.
